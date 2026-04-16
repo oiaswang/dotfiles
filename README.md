@@ -4,11 +4,14 @@
 <img src="./assets/rice1.png" width="50%">
 <img src="./assets/wallselector.png" width="50%">
 
+> [!TIP]
+> Be sure of what you're doing.!
+
 This contains My **Arch** Linux Dotfiles for a clean-looking lightweight **Hyprland** setup.
 
-***ENJOY!!***
+**ENJOY!!**
 
--1rr 34306.
+-1rr .
 
 
 > [!WARNING] 
@@ -17,3 +20,12 @@ This contains My **Arch** Linux Dotfiles for a clean-looking lightweight **Hyprl
 >
 
 If you do not want this, **you can remove it in the given applications `style.css` and add valid color values.** Although I highly recommend `Pywal` It's Pretty cool!
+
+# Install
+
+> [!CAUTION]
+> 
+> This script is under active development and might not work properly. Make sure you know what you are doing.
+
+This configuration is tailored for AMD systems. NVIDIA and Intel users should proceed carefully, as compatibility issues may arise.
+<details>
