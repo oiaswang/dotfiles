@@ -4,22 +4,16 @@
 <img src="./assets/rice1.png" width="50%">
 <img src="./assets/wallselector.png" width="50%">
 
-O foco principal dessas configurações é:
+This contains My **Arch** Linux Dotfiles for a clean-looking lightweight **Hyprland** setup.
 
-minimalismo
-desempenho
-fluidez no uso diário
-organização visual simples
+***ENJOY!!***
 
-As configurações foram ajustadas manualmente ao longo do tempo para atender às necessidades específicas do meu sistema.
+-1rr 34306.
 
-⚠️ Aviso Importante
 
-Estas configurações foram desenvolvidas sob medida para o meu hardware, que utiliza plataforma totalmente AMD.
+> [!WARNING] 
+>  
+> All Configurations were meant to be used with `Pywal`
+>
 
-Devido a isso, usuários com hardware diferente podem encontrar comportamentos inesperados.
-
-Em especial:
-
-sistemas com GPU NVIDIA
-sistemas com gráficos Intel
+If you do not want this, **you can remove it in the given applications `style.css` and add valid color values.** Although I highly recommend `Pywal` It's Pretty cool!
