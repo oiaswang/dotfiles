@@ -1,0 +1,14 @@
+[Default Applications]
+x-scheme-handler/discord=vesktop.desktop
+x-scheme-handler/terminal=kitty.desktop
+video/mp4=mpv.desktop
+application/vnd.appimage=kitty.desktop
+x-scheme-handler/accela=accela.desktop
+x-scheme-handler/terminal=kitty.desktop
+
+[Added Associations]
+video/mp4=mpv.desktop;
+application/vnd.appimage=kitty.desktop;
+application/toml=helium.desktop;micro.desktop;nvim.desktop;
+text/plain=helium.desktop;
+application/x-shellscript=helium.desktop;

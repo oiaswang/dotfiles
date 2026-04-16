@@ -1,0 +1,9 @@
+width=940
+height=320
+dynamic_lines=false
+allow_images=true
+lines=2
+columns=4
+image_size=200
+content_halign=center
+prompt=  wallpaper   # ícone nerd font no placeholder

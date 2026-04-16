@@ -1,0 +1,115 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+
+    "logo": {
+        "source": "~/.config/fastfetch/logo.txt",
+        "type": "file",
+        "color": {
+            "1": "white"
+        },
+        "padding": {
+            "top": 3,
+            "right": 3
+        }
+    },
+
+    "display": {
+        "separator": " \u2192 ",
+        "color": {
+            "separator": "white"
+        }
+    },
+
+    "modules": [
+        {
+            "type": "title",
+            "format": "{1}@{2}",
+            "color": {
+                "user": "white",
+                "at": "white",
+                "host": "white"
+            }
+        },
+        {
+            "type": "custom",
+            "format": "\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510"
+        },
+        {
+            "type": "os",
+            "key": "\u2502 \u25b2  OS    ",
+            "keyColor": "white",
+            "format": "{name} {arch}"
+        },
+        {
+            "type": "kernel",
+            "key": "\u2502 \u25b3  Kernel",
+            "keyColor": "white"
+        },
+        {
+            "type": "packages",
+            "key": "\u2502 \u2022  Packs ",
+            "keyColor": "white"
+        },
+        {
+            "type": "init",
+            "key": "\u2502 \u25aa  Init  ",
+            "keyColor": "white"
+        },
+        {
+            "type": "terminal",
+            "key": "\u2502 \u25ab  Term  ",
+            "keyColor": "white"
+        },
+        {
+            "type": "wm",
+            "key": "\u2502 \u25ab  WM    ",
+            "keyColor": "white"
+        },
+        {
+            "type": "font",
+            "key": "\u2502 \u1d00  Font  ",
+            "keyColor": "white"
+        },
+        {
+            "type": "custom",
+            "format": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524"
+        },
+        {
+            "type": "memory",
+            "key": "\u2502 \u25a0  RAM   ",
+            "keyColor": "white"
+        },
+        {
+            "type": "disk",
+            "key": "\u2502 \u25a3  Disk  ",
+            "keyColor": "white",
+            "folders": "/"
+        },
+        {
+            "type": "custom",
+            "format": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524"
+        },
+        {
+            "type": "uptime",
+            "key": "\u2502 \u25cb  Uptime",
+            "keyColor": "white"
+        },
+        {
+            "type": "datetime",
+            "key": "\u2502 \u25ab  Date  ",
+            "keyColor": "white",
+            "dateFormat": "%Y-%m-%d",
+            "timeFormat": "%H:%M:%S",
+            "format": "{1} {2}"
+        },
+        {
+            "type": "custom",
+            "format": "\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518"
+        },
+        {
+            "type": "colors",
+            "symbol": "circle",
+            "paddingLeft": 14
+        }
+    ]
+}
