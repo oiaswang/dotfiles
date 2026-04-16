@@ -1,10 +1,10 @@
 ⚡ Dotfiles Hyprland — Minimal!
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/rice1.png" width="300"/>
-  <img src="assets/rice2.png" width="300"/>
-  <img src="assets/wallselector.png" width="300"/>
-</div>
+
+<img src="./assets/rice4.png" width="50%">
+<img src="./assets/rice1.png" width="50%">
+<img src="./assets/rice3.png" width="50%">
+<img src="./assets/wallselector.png" width="50%">
 
 O foco principal dessas configurações é:
 
